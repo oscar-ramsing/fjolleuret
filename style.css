@@ -72,6 +72,7 @@ html {
 
   .min-hand::before {
     background-image: url('https://github.com/oscar-ramsing/fjolleuret/blob/master/frederikke.png?raw=true');
+    transform: rotate(280deg);
   }
 
   .hour-hand::before {
