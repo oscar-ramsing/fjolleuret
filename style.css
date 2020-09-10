@@ -71,7 +71,7 @@ html {
   }
 
   .min-hand::before {
-    background-image: url('./frederikke.png');
+    background-image: url('https://github.com/oscar-ramsing/fjolleuret/blob/master/Frederikke.png?raw=true');
   }
 
   .hour-hand::before {
