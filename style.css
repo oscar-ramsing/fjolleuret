@@ -75,6 +75,6 @@ html {
   }
 
   .hour-hand::before {
-    background-image: url('./oscar.png');
+    background-image: url('oscar.png');
     transform: rotate(280deg);
   }
